@@ -8,4 +8,4 @@ def primo(n):
         return True
     return False
 
-print(primo(89))
+print(primo(17))
